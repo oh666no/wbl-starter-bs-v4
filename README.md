@@ -1,4 +1,4 @@
-# Webolatory Starter Template [Bootstrap v4.0]
+# [Webolatory Starter Template](https://oh666no.github.io/wbl-starter-bs-v4/) [Bootstrap v4.0]
 
 This is starter HTML template which includes
 * Bootstrap v 4.0[CDN]
